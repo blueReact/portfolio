@@ -1,0 +1,33 @@
+{
+  "name": "porfolio",
+  "version": "1.0.0",
+  "description": "My porfolio website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roycodeman/portfolio.git"
+  },
+  "keywords": [
+    "Portfolio",
+    "MEAN",
+    "AngualrJS",
+    "Node",
+    "Express"
+  ],
+  "author": "roycodeman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roycodeman/portfolio/issues"
+  },
+  "homepage": "https://github.com/roycodeman/portfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
